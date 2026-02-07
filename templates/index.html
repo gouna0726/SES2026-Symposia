@@ -1,1 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SES 2026 - Purdue University</title>
+    <style>
+        :root {
+            --purdue-gold: #CFB991;
+            --purdue-black: #000000;
+            --cvent-grey: #EBEBEB; 
+            --sidebar-black: #1A1A1A;
+        }
 
+        body { 
+            display: flex; 
+            flex-direction: column; 
+            height: 100vh; 
+            margin: 0; 
+            font-family: "Open Sans", Arial, sans-serif; 
+            overflow: hidden; 
+        }
+
+        /* --- THE BANNER (RESTORED CLEAN FONTS) --- */
+        .main-banner {
+            height: 95px; 
+            background-color: var(--cvent-grey);
+            flex-shrink: 0;
+            border-bottom: 3px solid var(--purdue-gold); 
+            display: flex;
+            justify-content: space-between; 
+            align-items: center;
+            padding: 0 45px;
+            box-sizing: border-box;
+        }
+
+        .banner-left { display: flex; align-items: center; }
+
+        .purdue-signature {
+            height: 55px; 
+            width: auto;
+            display: block;
+        }
+
+        .banner-right { 
+            text-align: right; 
+            line-height: 1.25; 
+        }
+
+        .banner-right h1 {
+            /* Restored to a strong, clean sans-serif */
+            font-family: "Arial Black", sans-serif;
+            font-size: 1.7rem;
+            margin: 0;
+            font-weight: 700;
+            color: var(--purdue-black);
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+        }
+
+        .info-date {
+            font-family: Georgia, serif;
+            color: var(--purdue-black);
+            font-weight: bold;
+            font-size: 0.95rem;
+            text-transform: uppercase;
+            margin-top: 3px;
+        }
+
+        .info-loc { 
+            font-family: Georgia, serif;
+            font-size: 0.85rem; 
+            color: #555; 
+        }
+
+        /* --- THE 3-PANE LAYOUT (SLIMMER) --- */
+        .app-container { display: flex; flex: 1; overflow: hidden; }
+
+        /* Pane 1: Tracks (Slimmed to 260px) */
+        #track-sidebar {
+            width: 260px;
+            background: var(--sidebar-black);
+            color: white;
+            overflow-y: auto;
+        }
+
+        .pane-header {
+            padding: 12px 20px;
+            background: var(--purdue-gold);
+            color: var(--purdue-black);
+            font-weight: 900;
+            text-transform: uppercase;
+            font-size: 0.7rem;
+            letter-spacing: 1px;
+        }
+
+        .track-item {
+            padding: 15px 20px;
+            border-bottom: 1px solid #2A2A2A;
+            cursor: pointer;
+            font-size: 13px;
+        }
+
+        .track-label {
+            display: block;
+            font-size: 10px;
+            color: var(--purdue-gold);
+            font-weight: 800;
+            margin-bottom: 4px;
+            text-transform: uppercase;
+        }
+
+        .track-item:hover { background: #252525; }
+        .track-item.active { 
+            background: white; 
+            color: var(--purdue-black);
+            font-weight: 700;
+            border-left: 6px solid var(--purdue-gold);
+        }
+
+        /* Pane 2: Symposia (Slimmed to 320px) */
+        #session-sidebar {
+            width: 320px;
+            border-right: 1px solid #ddd;
+            background: var(--cvent-grey);
+            overflow-y: auto;
+            display: none; 
+        }
+
+        .session-item {
+            padding: 18px 20px;
+            border-bottom: 1px solid #ddd;
+            cursor: pointer;
+        }
+
+        .session-item:hover { background: #e0e0e0; }
+        .session-item.active { background: white; border-right: 5px solid var(--purdue-gold); }
+
+        .session-num {
+            display: block;
+            font-weight: 800;
+            color: #777;
+            font-size: 10px;
+            margin-bottom: 4px;
+            text-transform: uppercase;
+        }
+
+        .session-title {
+            font-size: 13.5px;
+            color: var(--purdue-black);
+            line-height: 1.4;
+            font-weight: 600;
+        }
+
+        /* Pane 3: Content (Larger) */
+        #reading-pane { flex: 1; overflow-y: auto; padding: 55px 75px; background: white; }
+
+        .symp-header { 
+            color: var(--purdue-black); 
+            font-size: 2.2rem; 
+            margin-top: 0; 
+            font-family: Georgia, serif;
+            border-bottom: 2px solid var(--purdue-gold);
+            padding-bottom: 15px;
+        }
+
+        .organizer-callout {
+            margin: 25px 0;
+            padding: 20px;
+            background: #F9F9F9;
+            border-left: 5px solid var(--purdue-gold);
+        }
+
+        .description-body {
+            font-size: 17.5px;
+            line-height: 1.8;
+            color: #333;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="main-banner">
+        <div class="banner-left">
+            <img src="{{ url_for('static', filename='logo.png') }}" alt="Purdue University" class="purdue-signature">
+        </div>
+
+        <div class="banner-right">
+            <h1>SES 2026</h1>
+            <div class="info-date">October 11-14, 2026</div>
+            <div class="info-loc">Purdue University | West Lafayette, IN</div>
+        </div>
+    </header>
+
+    <div class="app-container">
+        <div id="track-sidebar">
+            <div class="pane-header">Scientific Tracks</div>
+            {% for id, name in tracks.items() %}
+            <div class="track-item" onclick="loadSessions('{{id}}', this)">
+                <span class="track-label">Track {{ id }}</span>
+                {{ name }}
+            </div>
+            {% endfor %}
+        </div>
+
+        <div id="session-sidebar">
+            <div class="pane-header" style="background:#e0e0e0; color:#555;">Symposia List</div>
+            <div id="session-list"></div>
+        </div>
+
+        <div id="reading-pane">
+            <div id="displayArea">
+                <h3 style="color: #ccc; text-align: center; margin-top: 100px; font-weight: 400;">Select a track to begin</h3>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        async function loadSessions(trackId, element) {
+            document.querySelectorAll('.track-item').forEach(el => el.classList.remove('active'));
+            element.classList.add('active');
+
+            const sidebar = document.getElementById('session-sidebar');
+            const list = document.getElementById('session-list');
+            sidebar.style.display = "block";
+            list.innerHTML = "<div style='padding:20px; color:#666; font-size:13px;'>Loading titles...</div>";
+
+            try {
+                const response = await fetch(`/get_sessions/${trackId}`);
+                const data = await response.json();
+                list.innerHTML = "";
+
+                data.forEach(s => {
+                    let item = document.createElement('div');
+                    item.className = "session-item";
+                    let num = s.id.split('_s')[1] || ""; 
+                    item.innerHTML = `
+                        <span class="session-num">SYMPOSIUM ${num}</span>
+                        <span class="session-title">${s.title}</span>
+                    `;
+                    item.onclick = () => {
+                        document.querySelectorAll('.session-item').forEach(el => el.classList.remove('active'));
+                        item.classList.add('active');
+                        loadContent(s.id);
+                    };
+                    list.appendChild(item);
+                });
+            } catch (error) { list.innerHTML = "<div style='padding:20px; color:red;'>Error.</div>"; }
+        }
+
+        async function loadContent(sessionId) {
+            const display = document.getElementById('displayArea');
+            display.innerHTML = "<p style='padding-top:20px;'>Loading...</p>";
+
+            try {
+                const response = await fetch(`/get_content/${sessionId}`);
+                const data = await response.json();
+                let lines = data.content.split('\n');
+                let title = lines[0].replace('SYMPOSIUM:', '').trim();
+                let organizers = lines[1].replace('ORGANIZERS:', '').trim();
+                let description = lines.slice(3).join('\n');
+
+                display.innerHTML = `
+                    <h1 class="symp-header">${title}</h1>
+                    <div class="organizer-callout">
+                        <strong style="text-transform: uppercase; font-size: 0.75rem; color: #888;">Organizers</strong>
+                        <div style="font-weight: 600; margin-top: 5px;">${organizers}</div>
+                    </div>
+                    <div class="description-body">${description}</div>
+                `;
+            } catch (error) { display.innerHTML = "<p style='color:red;'>Error.</p>"; }
+        }
+    </script>
+</body>
+</html>
