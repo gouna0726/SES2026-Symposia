@@ -1,0 +1,17 @@
+SYMPOSIUM: Advances in Experimental and Modeling Studies of High Strain-Rate Mechanics
+ORGANIZERS: Sinan Müftü, Mostafa Hassani, Jae-Hwang Lee
+------------------------------
+
+The purpose of this symposium is to bring together the research community engaged in the experimental, theoretical, and computational investigation of material behavior under extreme loading rates. Recent advances in diagnostics, experimental platforms, and multiscale modeling have substantially improved the ability to interrogate material response at high and ultra-high strain rates. At the same time, ongoing challenges in model calibration, uncertainty quantification, microstructure-sensitive behavior, and data integration underscore the need for closer interaction among experimentalists, model developers, and application-focused researchers.
+This symposium aims to provide a focused forum for advancing the understanding of deformation, damage, and failure mechanisms across all classes of materials over  a wide range of temporal and spatial scales, and to promote dialogue across disciplines with an emphasis on experiment-informed modeling and physically grounded interpretation of dynamic material behavior.
+
+Topics of interest include, but are not limited to:
+o	Experimental advances in ultra-high strain-rate platforms, diagnostics, and measurement technologies
+o	Constitutive modeling, microstructure-enabled and multiscale modeling, data fusion, model calibration, and uncertainty quantification
+o	Microstructural evolution and emerging deformation mechanisms under high and ultra-high strain-rate loading, including phase transformations, defect dynamics, and rate-dependent plasticity
+o	Shock and high-pressure behavior, failure, fracture, and instabilities
+o	Data-driven and machine-learning-based approaches
+
+Contributions addressing application-driven problems related to impact, blast, and penetration mechanics; aerospace, defense, and protective materials; metals and alloys; additively manufactured materials; biological and bio-inspired materials; ceramics; polymers; granular materials; and other emerging application areas are welcome.
+
+Authors are invited to submit original research contributions addressing high and/or ultra-high strain-rate phenomena, emphasizing experimental validation, modeling rigor, and application relevance.

@@ -1,0 +1,25 @@
+SYMPOSIUM: Biomechanics and Biomimetics Across Time and Length Scales
+ORGANIZERS: Ottman Tertuliano, Claire Acevedo, Hortense Le Ferrand , Callan Luetkemeyer 
+------------------------------
+
+Tissues are inherently hierarchical, complex living structures. Their constituents assemble purposefully starting from the nanoscale to design macroscopically functional organs while simultaneously imbuing the tissues with nonlinear, anisotropic, and classically disparate mechanical properties. Biomimetic composites inspired by natural tissues reproduce the complexity in organisation, composition, and properties. In both natural and synthetic systems,  hierarchical organisation leads to complex, multilevel and dynamic mechanical responses that leverage the dynamic reciprocity between structural interfaces, water, and cell mechanobiology. 
+
+
+The goal of this symposium is to bring together researchers with expertise in theoretical, computational, and experimental approaches to quantitatively investigate how hierarchical structure fundamentally couples to mechanical properties in tissue and bioinspired composites. The symposium will also cover how this coupling in structure-properties dictates the functions of the systems across length and time scales, and elucidate the specific microstructural and biological designs required to attain targeted performance.
+
+
+Because these systems are anisotropic and nonlinear, they give rise to heterogeneous deformations, novel functions, and simultaneously necessitate novel, information-rich full-field characterization methods. This symposium solicits contributions in all fields related to the mechanics of tissues, hierarchical composites, and novel full-field (i.e., image-based) mechanics across length and time scales. Topics include, but are not limited to:
+
+
+(a) fracture, damage or rupture nucleation/initiation in tissues and hierarchical composites
+(b) bridging time or length scales in tissue mechanical properties
+(c) fabrication and design of complex microstructural composites inspired from tissues
+(d) testing set-ups and characterisation of bioinspired hierarchical composites
+(e) mechanisms of tissue repair and regeneration, aging, and morphogenesis
+(f) cellular and function impairment in healthy versus diseased tissues
+(g) how cells affect tissue properties over length and time scales
+(h) mechanics of musculoskeletal tissues, bone, tendon, muscles, joint, spine, etc. 
+(i) mechanical inference of microstructure
+
+
+Contributions to novel modeling approaches and experimental techniques (including imaging) are particularly welcome.

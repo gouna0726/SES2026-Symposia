@@ -1,0 +1,18 @@
+SYMPOSIUM: Coupled mechanics of soft solids
+ORGANIZERS: Eric M. Stewart, Keven Alkhoury, Vikas Srivastava, Mrityunjay Kothari, Shawn Chester
+------------------------------
+
+The coupled response of solid materials to multiple fields --- such as deformation, heat, electricity, magnetism --- as well as chemical transport and exposure to different solvents and gases, plays a crucial role in modern engineering applications, ranging from soft robotics to energy storage. This mini-symposium covers the characterization, prediction, modeling, and application of coupled "multi-physics" deformation, damage, and fracture phenomena in solids. Areas of interest for individual sessions include, but are not limited to:
+
+- Chemo-mechanics of gels,
+- Diffusion, reaction, and growth in living and inert materials,
+- Electro-chemo-mechanics of energy materials,
+- Magneto-mechanics of magnetorheological elastomers,
+- Electro-mechanics of dielectric elastomers,
+- Effects of damage, inelasticity, and inertia in the above,
+- Degradation and aging of solids, with emphasis on polymeric materials,
+- Computational methods,
+- Experimental methods.
+
+The symposium brings researchers from a variety of backgrounds together to exchange and discuss ideas
+related to the coupled mechanical behavior of solid "smart'' materials.

@@ -1,0 +1,5 @@
+SYMPOSIUM: High-Throughput and Rapid Testing 
+ORGANIZERS: Kawai Kwok, Wen Luo
+------------------------------
+
+The mini-symposium on High-Throughput and Rapid Testing provides a forum to discuss concepts and demonstrations on novel testing methods of materials with increased data throughput or accelerated speed. Measuring material properties is a prerequisite for designing new structures and systems or validating new materials. Conventional techniques are inefficient in probing material characteristics under a wide range of conditions, especially for properties that require large datasets or long test durations. This mini-symposium is focused on the unique challenges of generating material property data with cost effective methods. Papers are invited for a wide range of topics including but not limited to failure statistics, viscoelasticity, (visco)plasticity, multifunctional properties.  

@@ -1,0 +1,6 @@
+SYMPOSIUM: Computational Fracture Mechanics Across Materials and Length Scales 
+ORGANIZERS: Trisha Sain, Aditya Kumar, Lampros Svolos
+------------------------------
+
+Over the last few decades, numerous computational methods have been developed for modeling fracture in a wide range of materials, length scales, and applications. Despite significant advances, contemporary approaches still face several challenges that hinder progress in predictive and computationally efficient modeling of material and structural failure.
+The purpose of this minisymposium is to provide a forum for discussion on the challenges and recent advances in computational fracture mechanics aimed at understanding the mechanics and physics of crack initiation, propagation, and failure in solids. Emphasis is placed on mechanics-based and physics-informed computational approaches that capture nonlinear, dynamic, and multiscale fracture processes across a wide range of natural and engineered materials and loading conditions. Contributions addressing fundamental mechanisms, novel numerical formulations, and the integration of experiments and theory to advance predictive capabilities in fracture and failure of ductile and brittle materials are especially encouraged. 

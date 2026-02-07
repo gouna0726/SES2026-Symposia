@@ -1,0 +1,16 @@
+SYMPOSIUM: Mechanics of damage, fracture and friction in materials across scales
+ORGANIZERS: Ahmed Elbanna, David Kammer, John Kolinski, Krishnaswamy Ravi-Chandar
+------------------------------
+
+Catastrophic failure of materials is a highly complex and nonlinear process with various distinct phases. Initially, nucleation is often a slow mechanism that is sensitive to disorder in the material structure. Once these small-scale perturbations become critical, failure is driven by fracture propagation, which is a dynamic multiscale phenomenon. Understanding the underpinnings of material response at the microscale and their implications for fracture at macro scale is thus of vital importance to many engineering, biological, and geophysical applications.
+
+This symposium solicits contributions in all fields related to multiscale physics of damage, fracture and friction in (quasi-)brittle solids and soft materials. Possible topics may include, but are not limited to, theoretical analysis, experimental measurements, and computational modeling of:
+
+fracture nucleation/initiation in disordered systems (materials, interfaces, structures),
+crack propagation through heterogeneous materials and structures (crack speed, path selection, …)
+rupture arrest in non-uniform and structured systems (arrest criterion, …)
+bridging scales in fracture processes (link small scale properties with large scale mechanisms)
+fracture of soft and living materials
+friction at the micro and lab scales.
+Earthquake ruptures and other geohazards such as landslides.
+Contributions to novel modeling approaches and experimental techniques are particularly welcome.

@@ -1,0 +1,15 @@
+SYMPOSIUM: Programmable Morphing Matter: Bridging Bioinspiration, Mechanics, and Autonomous Design
+ORGANIZERS: Lining Yao, Wei Chen, Teng Zhang, Renee Zhao, Grace Gu, Yayue Pan, Liwei Wang, A B M Tahidul Haque, Shelly Zhang
+------------------------------
+
+This symposium focuses on the convergence of Morphing Matter and Programmable Material Systems (PMS)—materials and structures capable of dynamic, tunable transformations in response to external stimuli such as light, heat, moisture, and magnetic fields. From biological systems like pinecones and octopuses to engineered soft robots and mechanical metamaterials, these systems represent a paradigm shift toward intelligent, electricity-free machines and adaptive devices.
+
+The design and realization of these materials are inherently multidisciplinary, requiring the seamless integration of mechanistic modeling, computational design (AI/ML), and advanced manufacturing (3D/4D printing). By merging these fields, we aim to address critical societal challenges in sustainability, soft robotics, biomedical devices, and human-machine interaction.
+
+We invite abstracts covering a broad range of topics, including but not limited to:
+
+i. Biological & Bioinspired Systems: Lessons from nature for adaptive shape, color, and stiffness.
+ii. Mechanics & Modeling: Multiphysics and multiphase interaction, mechanistic simulation, and theoretical frameworks for PMS.
+iii. Computational Design: AI-enabled discovery, topology optimization, and automated design rules for programmable behaviors.
+iv. Advanced Manufacturing: Innovations in 4D printing, process design, and multi-material fabrication.
+v. Sustainability & Applications: Biodegradable materials, energy-harvesting structures, healthcare applications, and flexible electronics.

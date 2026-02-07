@@ -1,0 +1,10 @@
+SYMPOSIUM: Mechanics of Energetic Materials
+ORGANIZERS: Brandon Runnels, Monique McClain
+------------------------------
+
+Energetic materials (EMs), such as propellants and explosives, exhibit a broad spectrum of mechanical behavior at a range of length scales, and time scales ranging from years to nanoseconds. Performances of energetics can often be traced to their mechanical response during manufacturing, aging, and mechanical or thermal loading, but the mechanics of many key EMs are still relatively poorly understood.
+This minisymposium brings together researchers in EMs with a specific focus on the modeling, simulation, and experimental characterization of EM mechanics. Specific topics of interest in this minisymposium include:
+Damage modeling and characterization at both low and high strain rates, ranging from aging to detonation, and including such mechanisms as plasticity, viscoelasticity, fracture, and fatigue.
+Solid phase modeling and simulation methods of energetic materials, such as level-set, finite element method, and phase field, for property prediction and performance improvement.
+Design, control, and modeling of energetic materials’ fluid mechanics from subsonic to hypersonic in single and multi-phase flow aiming to improve performance, efficiency, and stability.
+Solid fluid interface interactions, such as heat and mass exchange, mechanical loading, moving interface tracking, and phase transitions.

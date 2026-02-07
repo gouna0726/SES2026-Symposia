@@ -1,0 +1,12 @@
+SYMPOSIUM: Computational Modeling of Physiological Flows
+ORGANIZERS: Arezoo Ardekani, Sharun Kuhar, Dongjie (Fred) Jia
+------------------------------
+
+The growing interest in computational investigations of physiological flows has provided new mechanistic insights into many clinical phenomena. With the advancement in computational power, high fidelity translational models of the flow of blood, lymphatics, cerebrospinal fluid, and, even more recently, of respiratory and gastrointestinal flows have opened a new arena of clinical impact. Additionally, patient-specific workflows and “digital twins” can plan surgery using imaging or sensor data. 
+
+This mini-symposium will bring together researchers developing computational methodologies for physiologically relevant flow problems in medicine, device design, and biological discovery. The session aims to foster interdisciplinary discussion, highlight novel modeling pipelines, and identify open challenges and future directions for impactful computational physiology.
+
+Topics of interest include, but are not limited to:
+•	Multiphysics and multiscale modeling of flow–structure interactions and transport in the human body.
+•	Patient-specific modeling of physiological systems, such as arteries, valves, airways, and cerebrospinal spaces.
+•	Modeling of clinical procedures involving fluid dynamics, such as drug delivery and medical device performance.

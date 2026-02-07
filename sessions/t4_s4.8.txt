@@ -1,0 +1,18 @@
+SYMPOSIUM: High Entropy Alloys and Metallic Glasses: Taming Order in Disorder 
+ORGANIZERS: Lin Li, Yang Yang, Yue Fan, Penghui Cao, Qi An
+------------------------------
+
+High entropy alloys (HEAs) and metallic glasses (MGs) are representative disordered materials, characterized by chemical disorder and structural disorder, respectively. Despite their apparent randomness, both systems exhibit hidden forms of order within disorder that critically govern their mechanical behavior, stability, and functional performance. Understanding and controlling this emergent order is essential for advancing these materials toward predictive design and engineering applications.
+The theme of this symposium is taming order in disorder—elucidating how chemical, structural, and topological ordering emerges in HEAs and MGs, and how such ordering can be harnessed to tailor properties. The symposium will bring together experimental, theoretical, computational, and data-driven studies that connect disorder to mechanics-driven phenomena across length and time scales.
+Emphasis will be placed on deformation and failure mechanisms, non-equilibrium processes, and responses under extreme environments, as well as processing routes that enable controlled disorder and emergent order.
+Topics of interest include, but are not limited to:
+•	Chemical order, short-range order, and compositional fluctuations in high entropy alloys
+•	Structural and topological order in metallic glasses, including short- and medium-range order
+•	Mechanical behaviors of disordered materials: dislocations, shear transformation zones, shear banding, twinning, fracture, and fatigue
+•	Order–disorder interactions under extreme conditions: irradiation, high temperature, high strain rate, and cyclic loading
+•	Non-equilibrium phenomena: defect dynamics, phase stability, aging, rejuvenation, and energy landscape evolution
+•	Environmental effects and degradation mechanisms in disordered materials
+•	Artificial intelligence and data-driven approaches for identifying and controlling order in disorder
+•	Multiscale modeling of disordered materials, from first-principles to continuum descriptions
+•	Advanced processing and manufacturing strategies to tailor disorder and emergent order
+This symposium aims to foster interdisciplinary discussion and accelerate the design of advanced materials by taming order in disorder in high entropy alloys and metallic glasses.

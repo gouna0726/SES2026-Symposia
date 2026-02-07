@@ -1,0 +1,23 @@
+SYMPOSIUM: Advances in experimental mechanics: new methods, instrumentation, and data driven discovery
+ORGANIZERS: Vatsa Gandhi, Suraj Ravindran, Angkur Shaikeea
+------------------------------
+
+Advances in experimental mechanics have redefined the way complex multidisciplinary problems are studied, understood, and addressed. Cutting-edge experimental methods, coupled with novel technologies, have enabled more precise characterization and improved predictive modeling of materials and structures. As these technologies continue to evolve, innovations in diagnostics, testing setups, and data analysis tools are driving the development of new experimental techniques, playing a key role in tackling modern challenges ranging from quasi-static deformation to high strain-rate dynamics.
+
+This symposium will focus on the latest developments in experimental mechanics, highlighting advancements in methods, techniques, and applications. While data-driven approaches in mechanics are rapidly expanding, there remains a relative scarcity of high-quality experimental measurements. Accordingly, the symposium will emphasize efforts in data collection, high-throughput testing, and studies that leverage experimental data to train and validate models. It will provide a platform for discussion of experimental methodologies, theoretical insights, and computational integration. Topics of interest include, but are not limited to:
+
+1. Quasi-static techniques, including advances in digital image correlation (DIC) and digital volume correlation (DVC) for strain and deformation analysis
+
+2. Techniques for studying high strain-rate behavior and impact loading (e.g., Split Hopkinson Pressure Bar, plate impact experiments, laser shock, and drop tower testing)
+
+3. In situ experiments using synchrotrons, high-energy X-ray and neutron imaging, XRD, EDXRD, and DCT, as well as the translation of these methods to laboratory-scale setups
+
+4. High-throughput experimental techniques to support machine learning applications, with a focus on automation, data generation, and integration with predictive modeling
+
+5. Innovative diagnostics and sensing systems for real-time data acquisition and enhanced measurement accuracy
+
+6. Leveraging machine learning (ML) and artificial intelligence (AI) tools to analyze experimental data, address noise, and improve model reliability
+
+7. Interdisciplinary approaches that combine experimental mechanics with AI, physics, and chemistry to expand the understanding of complex material systems
+
+Knowledge and expertise in experimental techniques within a specific subfield may have significant implications for other fields; however, effective translation is often lacking. This symposium aims to bridge that gap by bringing together researchers and practitioners from multidisciplinary areas such as nano- and micro-mechanics, manufacturing, materials science, biomechanics, and related fields. The goal is to foster collaboration and share insights into the rapidly evolving landscape of experimental mechanics. Participants will have the opportunity to explore state-of-the-art techniques and tools driving advances in the field, while engaging in discussions on how these innovations are shaping the future of material and structural characterization.

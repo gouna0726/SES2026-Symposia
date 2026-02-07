@@ -1,0 +1,16 @@
+SYMPOSIUM: Data-driven experimental and theoretical studies for functional nanoscale materials
+ORGANIZERS: Ahmad Ahmad, Juanjuan Lu, Di Zhang
+------------------------------
+
+In today’s modern world, functional nanomaterials such as semiconductors, 2D materials, thin films, transistors, LEDS, etc., are important mesoscopic components of many devices that we use daily. Characterizing these materials and understanding how they function under operating conditions is important for advancing the field of nanotechnology. In addition, obtaining functional materials with specific microstructural features, e.g., rough versus flat surfaces, multiphase films, and alloy semiconductors is important. Multiphase films such as vertically aligned nanocomposites have served as a potential candidate for advancing nanotechnology due to their interesting in-plane and out-of-plane properties, Chemical and physical vapor deposition processes are commonly used to achieve this goal. Understanding the growth mechanisms and microstructural evolution is important to controlling deposition processes and thus better help design experimental apparatuses. Machine learning and physics-based data-driven approaches have become increasingly powerful in the last 5 years in helping design nanomaterials with desired properties. 
+This symposium will explore various modeling and experimental techniques used to understand nanomaterials, such as single and multiphase films, mainly focusing on functionalities, their growth, and characterizations. The symposium will cover (but are not limited to) the following topics: 
+•	Data-driven approaches, including machine learning (ML) and physics-based neural networks (NN), for understanding nanomaterials functionalities and atomic and mesoscopic microstructural evolution and phase stability. 
+•	AI/ML based on experiments and modeling aided studies in synthesis, characterization, and modeling for novel functional nanoscale materials discovery and properties optimization. 
+•	Building databases based on numerical methods for electronic and atomic structures calculations, (ab-initio, empirical, molecular dynamics, machine-learning based methods) 
+•	Novel ML models based on mesoscale modeling techniques such as phase field, level-set, kinetic Monte Carlo, dynamics linked to experiments such as physical, chemical and electro- deposition techniques.  
+•	Combining ML/AI methods in both experiments implementation, data analysis, and theoretical modeling work in the field of films and functional nanomaterials.
+
+Organizers: 
+Ahmad Ahmad, Purdue University 
+Juanjuan Lu, Purdue University 
+Di Zhang, University of Texas – Arlington 

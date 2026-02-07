@@ -1,0 +1,19 @@
+SYMPOSIUM: Instabilities for Functionality in Slender Structures and Architected Systems
+ORGANIZERS: Mingchao Liu, Yunlan Zhang, Jie Yin, Damiano Pasini, Petro M. Reis
+------------------------------
+
+Mechanical instabilities—such as buckling, snap-through, and wrinkling—have traditionally been regarded as undesirable failure modes that limit structural performance. Increasingly, however, these phenomena are being harnessed as powerful design principles for achieving novel and enhanced functionalities in materials, structures, and systems across multiple length scales, including morphing matter, mechanical metamaterials, soft robots, deployable and energy-absorbing devices, and bio-inspired systems.
+
+This mini-symposium aims to bring together researchers working on instability phenomena across solid mechanics, structural engineering, soft matter, and robotics, with particular emphasis on slender structures and architected systems, to explore how instabilities can be harnessed rather than suppressed to achieve useful mechanical functions. By "bridging" classical stability concepts with recent/modern advances/developments, the symposium seeks to identify unifying principles, emerging opportunities, and future directions for instability-enabled design.
+
+This mini-symposium is organized in collaboration with the interdisciplinary open-access journal Advanced Science (Wiley), which will host a planned special issue on “Instabilities for Functionalities.” Authors of selected high-quality abstract presentations featuring original and unpublished work will be invited to submit full-length manuscripts to this special issue, following the journal’s standard peer-review process.
+
+Topics covered in this symposium include, but are not limited to:
+1. Instabilities in slender structures, shells, plates, ribbons, and filaments used for functional devices.
+2. Fundamental theory of mechanical instabilities and post-instability behavior relevant to functional responses.
+3. Instability-enabled shape morphing, multistability, and mechanical memory in structures and materials.
+4. Dynamic instabilities, rate effects, delayed bifurcation, and time-dependent responses for actuation and control.
+5. Architected materials and mechanical metamaterials exploiting buckling, snapping, and wrinkling phenomena.
+6. Bio-inspired and bio-integrated systems leveraging instability-driven mechanisms observed in nature.
+7. Experimental, computational, and data-driven methods for designing and controlling instability-mediated functionality.
+8. Applications in soft robotics, adaptive structures, deployable systems, energy absorption, sensing, and beyond.

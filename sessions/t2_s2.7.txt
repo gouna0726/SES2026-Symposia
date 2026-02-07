@@ -1,0 +1,5 @@
+SYMPOSIUM: Biomechanics of Morphogenesis
+ORGANIZERS: Daniel Szymanski, Thomas Siegmund
+------------------------------
+
+Forces within, between, and among cells drive morphogenesis. Tensile and shear forces are also sensed by cells. Force sensing allows cells, tissues, and organs to continuously adjust their physical properties and generate predictable morphological outputs. This session will include research that uses computational and experimental approaches to define the key forces and sensing mechanisms that operate during growth and development .

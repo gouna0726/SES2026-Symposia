@@ -1,0 +1,9 @@
+SYMPOSIUM: Physics-Informed and Data-Driven Approaches to Coupled Multiphysics
+ORGANIZERS: Xingchi Yan, Siyuan Song
+------------------------------
+
+Coupled physical systems—such as chemo-mechanical functional materials, opto-acoustic media, soft and biological matter — often exhibit strongly nonlinear and nonlocal behavior that is difficult to measure directly or infer from experiments. This section highlights emerging physics-informed, inverse, and data-driven approaches approaches for identifying, interpreting, and predicting mechanical behavior in such systems. 
+
+Topics of interest include, but are not limited to: inverse problems in solid and fluid mechanics; reaction- and field-induced stresses; photoacoustic phenomena; constitutive inference in nonlinear and soft materials and the integration of machine learning with mechanistic models. Contributions combining advanced experiments (e.g., photoacoustics, electrochemical measurements, advanced microscopy), theoretical modeling, and data-driven inference are especially encouraged.
+
+By bringing together researchers working on functional materials, soft matter, and emerging measurement platforms, this section aims to highlight new paradigms in mechanics where inference, learning, and multiphysics coupling play a central role.

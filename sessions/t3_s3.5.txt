@@ -1,0 +1,19 @@
+SYMPOSIUM: Direct Ink Writing: From Process Mechanics and Control to Microstructure and Architected Materials
+ORGANIZERS: Jochen Mueller, Jordan Raney, Brett Compton
+------------------------------
+
+Material-extrusion additive manufacturing, particularly Direct Ink Writing (DIW), has emerged as a versatile manufacturing platform for creating architected materials across polymers, ceramics, and increasingly metals. By enabling precise control over material placement, architecture, and interfaces across multiple length scales, DIW is opening new avenues for building mechanical metamaterials and architected systems with programmable and emergent behavior. At the same time, the complexity of extrusion-based processes, encompassing nonlinear rheology, free-surface flows, interfacial mechanics, curing or sintering transformations, and defect formation, poses fundamental challenges that require an engineering-science approach.
+
+This mini-symposium will focus on recent advances in DIW that explicitly connect process physics, machine and printhead design, sensing and control, and mechanical performance. Contributions are sought that emphasize how innovations in hardware, controls, and modeling enable new regimes of manufacturability and mechanical functionality, particularly for architected materials and mechanical metamaterials. 
+
+Of particular interest are works in which (1) demanding mechanical or architectural design objectives motivate the development or modification of DIW hardware and processes; (2) advances in extrusion, sensing, or control enable the fabrication of architected polymeric, ceramic, or metallic systems with novel mechanical responses; and (3) new models, design tools, or control strategies are developed that link process parameters to microstructure, defects, and mechanical behavior.
+
+Topics of interest include (but are not limited to):
+•	Mechanics of DIW and material extrusion: filament formation, flow instabilities, yield-stress and thixotropic effects, die swell, interlayer bonding, and interface mechanics
+•	Hardware and process innovation: high-solids extrusion, multi-material and coaxial printing, micro-/mesoscale deposition, heated or photonic printheads, scalable and high-throughput systems
+•	In-situ sensing and diagnostics: force/pressure monitoring, thermal and optical metrology, geometry and defect tracking during deposition
+•	Feedback and control: closed-loop control of bead geometry and architecture, model-predictive and learning-based control, digital twins for extrusion processes
+•	Post-processing science for ceramics and metals: debinding, sintering, reduction, shrinkage and distortion control, residual stress evolution
+•	Architected materials and mechanical metamaterials: nonlinear and instability-driven responses, anisotropic and graded architectures, damage tolerance, fatigue, and energy absorption
+•	Coupled design–manufacturing frameworks: topology optimization and inverse design under extrusion and post-processing constraints
+•	Applications: architected polymer, ceramic, and metallic systems for mechanical metamaterials, multifunctional structures, and resilient engineered materials

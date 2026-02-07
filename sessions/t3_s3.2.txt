@@ -1,0 +1,17 @@
+SYMPOSIUM: MECHANICS OF FIBROUS MATERIALS: FROM STRUCTURE TO FUNCTION
+ORGANIZERS: Hamed Hatami-Marbini, MATTHEW GRASINGER, CATALIN PICU
+------------------------------
+
+An interconnected network of fibers forms the solid skeleton of many biological and non-biological materials such as the extracellular matrix of soft tissues, cytoskeleton, and various types of non-wovens, which are collectively referred to as network materials. The macroscopic behavior of these materials results from a combination of factors, including the intrinsic properties of their individual constituents, the details of their architecture, and the interactions that occur between fibers. Identifying the relationship between structure and function is crucial not only for interpreting the unique behavior of biological fibrous materials but also for guiding the development of engineering network materials with tailored properties and enhanced functionality. A persistent challenge in this field is bridging the gap between experimentally accessible microstructural data and the parameters of detailed, predictive micromechanical and molecular models. 
+
+The objective of this symposium is to provide a forum for sharing recent advances related to the unique properties of network materials. Of special interest are the response of these systems across multiple length scales and the links between mechanical behavior and microstructural characteristics revealed by advanced experimental approaches, discrete level numerical simulations, continuum models informed by the subscales, statistical methods, and multiphysics procedures.
+
+Topics of interest
+Experimental and modeling/numerical studies in polymer networks and gels, paper and textile mechanics, non-wovens, tissue mechanics, cells/cytoskeleton, and suspensions rheology are of interest. Specific subjects include, but are not limited to:
+•	Multiscale modeling of fiber network material properties; elasticity, poroelasticity, viscoelasticity, damage and fracture,
+•	Experimental characterization of natural and biological entangled systems; tissues, cells, and tissue engineering fibrous scaffolds,
+•	Integration of experimental measurements with computational models; validation strategies for multiscale models, and inverse methods for inferring fiber-level properties from macroscopic response,
+•	Continuum-level micromechanical modeling, statistical homogenization, graph theory-based network analysis, and coarse-grained molecular dynamics approaches,
+•	Processing-structure-property relationships in network formation; effects of manufacturing conditions, crosslinking dynamics, and assembly protocols on resulting architecture and mechanical response,
+•	Dynamic microstructural evolution and adaptive behavior; network reorganization under mechanical loading, stimulus-responsive structural changes, and feedback between deformation and architecture,
+•	Data-driven machine learning and artificial intelligence approaches.

@@ -1,0 +1,18 @@
+SYMPOSIUM: Liquid crystal elastomers: integrating the mechanics of liquid crystals and polymer networks for programmable stimuli-responsive materials 
+ORGANIZERS: Tayler Hebner, Vicky Nguyen, H. Jerry Qi, Timothy White
+------------------------------
+
+The “Liquid Crystal Elastomers Symposium: Integrating the Mechanics of Liquid Crystals and Polymer Networks for Programmable Stimuli-Responsive Materials” at SES will bring together mechanicians, materials scientists, chemists, physicists, and engineers to share fundamental advances and discuss emerging applications for this exciting class of materials. The symposium will focus on recent developments in both the novel design and fundamental understanding of liquid crystal elastomers (LCEs), emphasizing the synergistic combination of liquid crystalline ordering and polymer network elasticity that give rise to their unique mechanical and stimuli-responsive behaviors. 
+
+ 
+
+Topics of interest include, but are not limited to: 
+ 
+Mechanics modeling of LCE  
+Emerging theoretical frameworks for LCE behavior and coupled mechanical theories 
+Molecular modeling of LCE behavior and structures  
+Molecular design, synthesis, and processing of new LCEs 
+Experimental characterization of actuation, soft elasticity, and dynamic reconfiguration 
+Multiphysics coupling of LCEs with light, heat, electric and magnetic fields 
+3D printing, patterning, and alignment control for programmable architectures 
+Functional implementations of LCE in robotics, structures, optics, and medicine 

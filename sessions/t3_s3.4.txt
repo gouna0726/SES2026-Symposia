@@ -1,0 +1,14 @@
+SYMPOSIUM: Mechanics of Materials and Structures for In-Space Manufacturing and Deployable Structures
+ORGANIZERS: Sameh Tawfick, Ioannis Chasiotis, Xin Ning
+------------------------------
+
+There is an increasing need for higher performance, multi-functional and load-bearing space structures that can endure the harsh space environment. Space structures have historically relied on deployable design concepts to adhere to the limitations set by launch vehicles, which is typically smaller than the size needed to accomplish the mission requirements. In addition to deploying pre-built, packaged, or folded space structures, future missions will rely on In-Space Servicing, Assembly and Manufacturing (ISAM). ISAM enables manufacturing, operation and repair, of space vehicles and structures over the entire lifespan of the mission. ISAM could enable future missions ranging from building the next international space station to enabling space solar power beaming and on-orbit data centers. 
+Mechanics of materials and structures, particularly in the presence of the extreme space conditions and limited accessibility, plays a critical role for deployable structures and in-space manufacturing. This mini-symposium calls for abstracts in topics relevant for space applications:
+-	In space manufacturing of composite materials and structures 
+-	3D printing and additive manufacturing for space and in space
+-	Optimization, Modeling and simulations of morphing and deployable structures
+-	Origami, Kirigami, and metamaterials for space applications
+-	Multifunctional, intelligent, and strain sensing structures
+-	Nonlinear elasticity, buckling, and dynamics of morphing and deployable structures
+-	Materials development and characterization for space environments.
+-	Experimental and modeling studies of material and structural damage due to Atomic Oxygen (AO), VUV, solar radiation, and space debris impact.

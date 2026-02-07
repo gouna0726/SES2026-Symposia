@@ -1,0 +1,17 @@
+SYMPOSIUM: Advances in Experimental Electro-Chemo-Mechanics
+ORGANIZERS: Juner Zhu, Kejie Zhao, Yijin Liu, Xuekun Lu
+------------------------------
+
+Electro-chemo-mechanics has emerged as a rapidly advancing research frontier at the intersection of mechanics, electrochemistry, and materials science. In recent years, significant breakthroughs in experimental capabilities—particularly in energy and functional materials such as Li-ion batteries, beyond-Li batteries, electrochemical capacitors, and catalytic systems—have enabled unprecedented observations of coupled electrochemical and mechanical phenomena across multiple length and time scales. These advances are fundamentally reshaping our understanding of deformation, stress evolution, fracture, transport, and instabilities in electrochemically active materials.
+This mini-symposium aims to highlight recent progress in experimental electro-chemo-mechanics and to provide a forum for disseminating new observations that can inspire the development of next-generation theories, models, and simulations within the broader mechanics and applied mechanics communities. Emphasis will be placed on experiments that directly probe coupled mechanical responses induced by electrochemical processes at the particle, electrode, and device levels, as well as experiments that bridge length scales from micro/nano to continuum.
+The symposium welcomes contributions featuring novel experimental techniques, quantitative measurements, and operando or in situ characterization approaches that reveal electro-chemo-mechanical coupling in complex materials and systems. By bringing together experimentalists and mechanicians, this mini-symposium seeks to stimulate cross-disciplinary dialogue and foster new directions in mechanics-based understanding of electrochemical materials and devices. Presentations from the industry are particularly welcome to boost industry-university collaboration.
+Topics of interest include, but are not limited to:
+	•	Electro-chemo-mechanical coupling at particle, electrode, and device scales
+	•	Operando and in situ mechanical testing of electrochemical materials
+	•	Optical and full-field deformation measurements
+	•	Direct stress and strain visualization in porous and heterogeneous media
+	•	X-ray, neutron, and synchrotron-based techniques for probing deformation, damage, and transport
+	•	Chemo-mechanics of phase transformations, swelling, fracture, and fatigue
+	•	Mechanical instabilities and failure in batteries, capacitors, and catalytic systems
+	•	Multiphysics experimental platforms integrating mechanics, electrochemistry, and transport
+	•	Data-rich experiments enabling theory development, model validation, and machine-learning-assisted discovery

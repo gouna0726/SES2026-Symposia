@@ -1,0 +1,17 @@
+SYMPOSIUM: Mechanics of Failure in Network Materials
+ORGANIZERS: Chase Hartquist, Junsoo Kim, Bolei Deng, Shaoting Lin
+------------------------------
+
+Description: 
+Networked architectures underpin the mechanical failure response of a vast array of materials, ranging from polymer gels, elastomers, and fibrous tissues to metamaterials and composites. In soft and polymeric systems, molecular connectivity, mesoscale topology, and heterogeneity lead to rich nonlinear failure behaviors when networks are subjected to large deformations, cyclic loads, or interfacial stresses. This mini-symposium highlights recent advances in the mechanics of fracture, failure, and degradation in network materials broadly, with a particular emphasis on polymers and soft matter. A key theme is to connect architecture, topology, constituent mechanics, and heterogeneity with macroscopic failure properties and leverage these insights towards multiscale design of tough and fatigue-resistant network materials. Experimental, theoretical, and computational studies that uncover multiscale failure mechanisms or inform the rational design of robust network architectures are highly encouraged.
+
+Topics of Interest:
+•	Fracture and fatigue: network materials, with emphasis on polymers
+•	Topology and architecture: control of failure pathways
+•	Dissipation mechanisms: entanglements, friction, sacrificial bonds
+•	Interfaces and adhesion: interfacial fracture and delamination
+•	Instabilities and localization: precursors to rupture and failure
+•	Multiscale modeling: micromechanical and continuum approaches
+•	Experiments and simulations: crack growth and damage evolution
+•	Material classes: polymer, soft, biological, and architected networks
+•	Design principles: tough, fatigue resistant polymer networks

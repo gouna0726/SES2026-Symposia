@@ -1,0 +1,7 @@
+SYMPOSIUM: Mechanics in Sustainable Materials and Systems
+ORGANIZERS: Christos Athanasiou, Xing Liu, Miguel Bessa, Lihua Jin, Vikas Srivastava
+------------------------------
+
+Mechanics serves as a cornerstone for the development of cutting-edge technologies and for advancing resource efficiency. From new recycling technologies to bio-degradable plastics, and from eco-friendly manufacturing to space structures, the field of mechanics provides fundamental theoretical, computational, and experimental frameworks that enable or improve those emerging fields.
+
+This symposium brings together researchers from across the mechanics community to highlight recent advances and emerging directions in mechanics-driven sustainability. The goal is to showcase how fundamental mechanical principles can guide the development of transformative technologies that address pressing environmental and technological challenges on Earth and beyond.

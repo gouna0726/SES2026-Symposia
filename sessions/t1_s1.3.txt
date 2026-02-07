@@ -1,0 +1,5 @@
+SYMPOSIUM: Y. Huang Engineering Science Medalist Symposium in Honor of Dimitris C. Lagoudas: Smart and Multifunctional Materials
+ORGANIZERS: Gary Seidel, Darren Hartl, Bjoern Kiefer, Siddiq Qidwai
+------------------------------
+
+Theory, computation, experiments and applications for smart and multifunctional materials.  Special emphasis on shape memory alloys and multifunctional nanocomposites.

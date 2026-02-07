@@ -1,0 +1,15 @@
+SYMPOSIUM: Scientific machine learning for computational mechanics
+ORGANIZERS: Romit Maulik, Ilias Bilionis, Marcial Gonzalez, Mina Karimi, Sascha Ranftl
+------------------------------
+
+Scientific machine learning (SciML) is rapidly transforming computational mechanics by enabling new data-driven and hybrid modeling paradigms that complement and enhance traditional numerical simulation. The integration of physics-based principles with modern machine learning techniques has opened pathways to accelerate simulation, improve accuracy and robustness, assimilate experimental or high-fidelity data, and provide interpretable models for complex, multiscale systems. This minisymposium will bring together researchers working at the interface of computational mechanics, applied mathematics, high-performance computing, and machine learning to discuss recent advances, emerging challenges, and opportunities for future development in SciML-driven computational mechanics.
+
+Topics of interest include, but are not limited to:
+
+- Hybrid and physics-informed learning frameworks, including physics-informed neural networks (PINNs), operator learning, and differentiable physics solvers for forward and inverse problems.
+- Data-driven constitutive and closure modeling, including discovery of stress–strain relationships, turbulence and subgrid-scale closure models, and model reduction strategies that respect physical invariants and constraints.
+- Reduced-order modeling and system identification, including dynamic mode decomposition, Koopman operator methods, latent space modeling, and projection-based model order reduction
+- Uncertainty quantification and robust learning, including Bayesian neural operators, stochastic PDE surrogates, and methods for uncertainty-aware decision-making under limited or noisy data.
+- Multifidelity and multimodal data integration, leveraging experimental, simulation, and field data for calibration, assimilation, and adaptive refinement.
+
+The minisymposium aims to foster interdisciplinary discussions that advance both theoretical foundations and practical applications of SciML in computational mechanics, spanning fluid and solid mechanics, materials science, biomechanics, geomechanics, and other engineering domains. We welcome contributions that demonstrate methodological innovation, application-driven insights, or integration into large-scale computational platforms. The session will provide a venue for exchanging ideas, building collaborations, and charting the next steps in the evolution of data-enhanced computational mechanics.

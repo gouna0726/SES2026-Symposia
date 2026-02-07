@@ -1,0 +1,17 @@
+SYMPOSIUM: Structural Materials in Nuclear Environments
+ORGANIZERS: Cheng Sun, Ke Xu, Khaled Nabil SharafEldin , Yifan Zhang , Shuozhi Xu 
+------------------------------
+
+The growing emphasis on nuclear energy efficiency and sustainability highlights the demand for high-performance structural materials and components. Yet, in both fission and fusion reactor environments, structural materials undergo substantial microstructural changes and property degradation, which compromise the structural integrity of critical core components. Although prior studies have improved our understanding of how irradiation, corrosion, and plasma exposure affect material behaviors, numerous fundamental questions remain unanswered, hindering the development of next-generation damage-tolerant structural materials. In recent years, there has been a rapid development of advanced experimental and modeling techniques, such as real-time characterization, multiscale modeling and simulation, and data-driven characterization and modeling. These advanced techniques provide profound insights into material behavior across multiple length and time scales. 
+
+This symposium will focus on fundamental understanding of irradiation-induced damage, gas impurity transport, molten salt corrosion, fracture, and embrittlement that commonly occur in nuclear structural materials, leveraging state-of-the-art experimental techniques, modeling methods, and data-driven approaches.
+The topics of this symposium include, but are not limited to
+
+1) Irradiation damage and effects in emerging materials. 
+2) Hydrogen retention and permeation in fusion-relevant materials. 
+3) Molten salt corrosion and stress corrosion cracking. 
+4) Data-driven material characterization.  
+5) Real-time characterization. 
+6) High-throughput experimental methodologies.  
+7) Multiscale modeling and simulation. 
+8) Data-driven computational modeling and simulation. 

@@ -1,0 +1,12 @@
+SYMPOSIUM: Mechanics-driven design and manufacturing for metamaterials and soft actuators
+ORGANIZERS: Craig Michael Hamel, Connor Armstrong, Shuai Wu, Shaoting Lin, Liwei Wang
+------------------------------
+
+Recent advances in additive manufacturing, such as direct ink writing and digital light processing, enable high-precision placement of materials with different functionalities. This ability opens a large design space for multifunctional composites, mechanical metamaterials, and soft actuator devices. For largely linear design goals, existing computational approaches ranging from topology optimization to more recent AI/ML approaches are well documented, and their manufacturing is straightforward. However, these approaches become limited when extreme nonlinearities arise from large deformation, self-contact, and inherent material dissipation (e.g. plasticity and viscoelasticity) in soft materials and structures, as well as from multiphysics or multi-objective design requirements.
+In this mini symposium, we are soliciting presentations revolving around the broad topics of mechanics-driven design and manufacturing for metamaterials and soft actuator devices with nonlinear and exotic mechanical behaviors such as buckling, snap-through, and multiphysics responses. We are particularly interested in presentations focusing on the cross-section of mechanics-based modeling and inverse design methods that explicitly incorporate constituent material design and manufacturing considerations. Examples of such presentations could include “how to tune LCE resin formulations for improved fatigue in cycled lattice compression”, or “how to optimize mechanical metamaterial stiffness functionalization using generative AI”.
+Representative topics of interest:
+•	Generative AI for nonlinear metamaterials and soft matter design
+•	Co-design of materials, structures, and manufacturing processes
+•	Optimization methods for responsive materials
+•	Active metamaterials under large deformation
+•	Tunable mechanical, acoustic, and electromagnetic responses via large deformation

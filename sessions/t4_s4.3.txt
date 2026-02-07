@@ -1,0 +1,16 @@
+SYMPOSIUM: Leveraging entanglement to enhance the multi-physical properties of networked materials across scales
+ORGANIZERS: Asaf Dana, Robert J Wagner
+------------------------------
+
+Physical entanglements and loops, whereby two or more slender members are wound around one another, provide a dynamic alternative to chemical bonds for cohering networked materials and tuning their multiphysical properties. Entanglements have become of great interest to researchers due to their impact on the mechanics of networks, including polymers, smart textiles, metamaterials and more. In polymers, entanglements and slide rings enable new modes of energy dissipation and can be used to significantly enhance mechanical toughness. In living systems, ranging from multi-cellular aggregates to colonies of insects, entanglements enable dynamic phase changes and reversible self-assembly. In engineered materials, ranging from knitted textiles to 3D printed metamaterials, researchers have increasingly begun to utilize entanglements to tune multi-physical properties, stimuli-response, and more. Despite the ubiquity of entanglements, we have only begun to uncover their potential for enhancing engineering design. This symposium aims to bring researchers together from across disciplines and scales to address:
+
+(1) How entanglements and loops fundamentally govern the structure-property relations of synthetic materials and living systems?
+
+(2) How can we utilize this information to enhance the multi-physical design and response of engineered systems?
+
+Topics of interest include:
+•	Entanglements & slide-rings in polymers & gels
+•	Entangled active matter & living systems
+•	Synthesis, fabrication, and self-assembly of entangled materials
+•	Tangles & knots in non-woven networks
+•	Mesoscopic entanglement for metamaterial design

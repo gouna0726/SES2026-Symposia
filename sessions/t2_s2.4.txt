@@ -1,0 +1,13 @@
+SYMPOSIUM: Mechanically engineered biological fate, form, and function (F3)
+ORGANIZERS: Yue Liu, Xin Tang, Dennis Discher
+------------------------------
+
+Mechanical driving forces fundamentally contribute to biological systems via a myriad of mechano-chemical-genetic pathways and ultimately regulate their fate, form, and function (F3). For example, mechanical forces can mediate gene expression through mechanotransduction, orchestrate morphogenesis-associated development, and define tissue-tissue/tissue-matrix interactions. 
+
+This mini-symposium aims to explore the mechanical approaches that modulate biological organisms for both mechanistic studies and applicational purposes. We welcome multidisciplinary investigations that elucidate the bridging principles underlying biochemical signals, cytoskeletal dynamics, cellular activities, multicellular architecture, tissue mechanics, organ health, and exogeneous mechanical cues. Engineering modalities developed for high-precision biomechanical modulation and/or mechanomedical technologies will also be highlighted. 
+
+Topics of Interests:
+●	Theoretical, computational, and experimental studies that target multiscale interactions between microenvironmental mechanics and biological systems.
+●	Emerging cellular behavior and organization derived from intercellular, tissue-tissue, and matrix mediated mechanical crosstalk.
+●	Engineering of cellular and tissue activities via state-of-the-art mechanical tools and technologies. 
+●	Biomechanical modulation of cell, tissue, or organ functionalization with potential mechanomedical applications in disease therapy.

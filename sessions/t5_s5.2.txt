@@ -1,0 +1,15 @@
+SYMPOSIUM: Instabilities and Nonlinear Mechanics Across Structural Scales
+ORGANIZERS: Lucia Stein-Montalvo, Fani Derveni
+------------------------------
+
+Controllable instabilities and nonlinear deformations in slender and compliant structures offer powerful opportunities for engineering applications, ranging from stretchable electronics and surgical robotics devices to energy-absorbing, load-redistributing components and lightweight civil, architectural, and aerospace systems.
+Despite their strong potential in the built environment and emerging frontiers such as large-scale deployable and adaptive structural systems, infrastructure resilience, and space structures, the majority of research in this area remains focused on millimeter- and centimeter-scale systems, where idealized behavior and controlled boundary conditions are often easier to achieve. 
+Bridging these concepts across scales requires new mechanical insights that account for increased imperfection sensitivity, geometric and material nonlinearities, stochastic variability, multiphysics coupling, and scale-dependent load paths. Addressing these challenges demands a range of complementary approaches, including experiments, nonlinear theory, high-fidelity numerical simulations, reduced-order modeling, and data-driven methods.
+The goal of this mini-symposium is to bring together researchers working on instabilities and nonlinear mechanics across length scales to identify unifying mechanical principles, share advances in scale-bridging methodologies, and foster cross-fertilization between communities studying small-scale systems and full-scale structural applications.
+
+Topics of interest: 
+Fundamental mechanics approaches (experimental, theoretical, numerical, and data-driven) to understanding and bridging scale effects in nonlinear and instability-driven systems
+Stability and imperfection sensitivity of buckling-driven behavior in slender structures across scales 
+Deployable, adaptive, and reconfigurable structures and structural systems grounded in mechanical instabilities
+Stimuli-responsive and environmentally coupled mechanical systems, with emphasis on mechanics rather than material chemistry
+Applications of instabilities and large, nonlinear deformations in the built environment, infrastructure, aerospace and space structures, and other large-scale engineering systems

@@ -1,0 +1,19 @@
+SYMPOSIUM: Soft hydraulics: Low-Reynolds-number hydrodynamics and fluid-structure interactions
+ORGANIZERS: Ivan C. Christov, Shrihari D. Pande
+------------------------------
+
+Soft hydraulics addresses the coupled dynamics of fluid flow and compliant conduit deformation, where pressure forces deform elastic walls, which in turn modify the flow. This bidirectional feedback requires extending the classical understanding of hydraulics. New questions arise: What is Poiseuille's law for a non-Newtonian fluid in a compliant microchannel? What is Womersley's law for a viscoelastic fluid in an elastic tube? At the same time, answering these questions is essential for designing soft robotics actuators, building lab-on-a-chip and biomicrofluidic systems, and unravelling the connections between physiological flows and disease conditions.
+
+The key challenge of advancing soft hydraulics lies in the interplay between fluid rheology and wall mechanics. A deep understanding of each is required to develop predictive theories.  Experimentally, it is also difficult to isolate these coupled phenomena, as, for example, the pressure drop in a channel is reduced by both elastic expansion and shear-thinning effects. Additional complexities may also arise, such as electro-osmotic and diffusio-osmotic flows in microfluidic systems, as well as the presence of large, small, and deformable particles in the flow. Surface-driven flows can generate internal pressure distributions that trigger fluid-structure instabilities. Similarly, external pressurization can cause channel collapse under certain flow conditions. Worse, channels made from soft materials may fail under the hydrodynamic loading within.
+
+Progress in this field requires understanding these coupled physics. This symposium seeks contributions spanning theory, simulation, and experiment that advance either our fundamental understanding of soft hydraulics or its applications.
+
+Topics of interest include, but are not limited to:
+-- Flow rate–pressure drop relations and hydraulic impedance in deformable systems
+-- Non-Newtonian and viscoelastic flows in nonuniform and compliant geometries
+-- Electro-osmotic and diffusio-osmotic flows in soft microfluidic configurations
+-- Stability, instabilities, and failure mechanics in soft hydraulic systems
+-- Reduced-order modeling and asymptotics
+-- High-fidelity multiphysics simulations of fluid–structure interaction
+-- Experimental methods for measuring coupled fluid-solid responses
+-- Applications in microfluidics, soft robotics, and biological flows

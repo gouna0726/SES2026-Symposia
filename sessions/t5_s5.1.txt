@@ -1,0 +1,16 @@
+SYMPOSIUM: Mechanics of interfaces: deformation, adhesion, fracture, and friction
+ORGANIZERS: Qihan Liu, Ruobing Bai
+------------------------------
+
+This mini-symposium highlights the mechanics of interfaces, which involves the interaction of two distinct materials. The presence of an interface can lead to various interesting phenomena that do not exist in the material bulk, such as capillary effects, instabilities due to mismatch properties across the interface, moving boundaries due to contact, etc. These phenomena give rise to an unparalleled richness in mechanics, offering vast opportunities for engineering advanced applications. The goal of this mini-symposium is to bring together researchers from diverse disciplines to share and discuss advances in computational, theoretical, and experimental approaches, spanning molecular to macroscopic scales. Both fundamental and application-driven studies are warmly encouraged. 
+
+Topics of interest:
+•	Contact mechanics, e.g. adhesion, lubrication, friction
+•	Size-dependent capillary effects, e.g. elastocapillary effect
+•	Surface instabilities, e.g. wrinkle and crease
+•	Energy dissipation near interfacial cracks
+•	Cavitation and nucleation
+•	Textured surface surfaces
+•	Stimuli-responsive interfacial properties
+•	Mass and thermal transport across or near interfaces
+•	Other relevant topics involving interfaces

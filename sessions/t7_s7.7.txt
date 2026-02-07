@@ -1,0 +1,12 @@
+SYMPOSIUM: data-driven methods for inelastic solids and structures
+ORGANIZERS: Burigede Liu, Yupeng Zhang, Hossein (Amir) Salahshoor, Swarnava Ghosh
+------------------------------
+
+The inelastic response of solids and structures can be induced by a wide range of factors, such as finite deformation, elevated temperature, aging, high strain rate loading, and other extreme environmental conditions. These inelastic behaviors are essentially history-dependent and often computationally intensive to model due to the numerical efforts required for convergence and the potential for instability. With advancements in computational capabilities, data-driven methods, such as deep learning and statistical approaches, have been developed to address both fundamental and applied problems in inelastic solid and structures.
+
+This mini-symposium welcomes all relevant submissions, including but not limited to:
+1. Model reduction, such as homogenization of constitutive relations, and further for multiscale modeling.
+2. Inelastic behaviors of solids, such as (crystal) plasticity, damage, brittle and ductile fracture.
+3. Inelastic behaviors of structures, such as architected metamaterials.
+4. Frameworks and algorithms of data-driven methods, such as algorithms for operator learning.
+5. Transfer learning, such as fine tuning of models for out-of-distribution data.

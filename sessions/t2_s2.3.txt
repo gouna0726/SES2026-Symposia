@@ -1,0 +1,14 @@
+SYMPOSIUM: Structure and Mechanics of Living and Bioinspired Materials
+ORGANIZERS: Jingjie Yeo, Si Chen, Tian Li, Zhao Qin, Teng Zhang
+------------------------------
+
+This symposium explores the current status and future research directions in living and bioinspired materials. Living materials represent an emerging class of natural or engineered composites comprising organisms or cells (e.g., archaea, bacteria, fungi, animal cells, plant cells) integrated with self-produced or artificial scaffolds (e.g., polymers, proteins, polysaccharides). These materials exhibit dynamic environmental responsiveness and "living" characteristics such as self-healing and self-regeneration, enabling properties that emerge distinctly from their constituent components. Concurrently, research on bioinspired materials seeks to emulate the efficiency, sustainability, and innovative strategies inherent in natural biological structures, processes, and functions.
+
+Advancing living and bioinspired materials toward functional devices requires integrated theoretical, computational, data-driven, and experimental approaches. This symposium will examine the current state of the art, emphasizing progress in fundamental properties, process development, manufacturing scalability, and device integration. By convening international researchers from engineering mechanics, biophysics, biochemistry, chemical engineering, and materials science and engineering, the symposium facilitates knowledge exchange and discussion of cutting-edge methods and applications at the intersection of materials science, synthetic biology, and engineering design.
+
+Topics of interest include:
+•	Experimental, theoretical, computational, and data-driven modeling, design, and characterization of living and bioinspired materials across molecular, cellular, mesoscopic, and continuum scales  
+•	Applications to the design of structures, parts, and devices incorporating living or bioinspired materials
+•	Synthesis, manufacturing, and growth of living and bioinspired materials for scalable and sustainably viable applications
+•	Theoretical, numerical, and experimental methods for understanding and predicting the structure and mechanics of living and bioinspired materials
+•	Generative artificial intelligence methods for inverse design and discovery of functional living materials

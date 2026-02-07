@@ -1,0 +1,17 @@
+SYMPOSIUM: AI Powered Inverse Design for Next Generation Composites
+ORGANIZERS: Srikanth Pilla, Gang Li
+------------------------------
+
+Composites are rapidly expanding into high-rate, high-performance applications, but development cycles are still slowed by trial-and-error across materials selection, processing windows, tooling, and part validation. This symposium focuses on how a revolutionary inverse design platform can accelerate fiber reinforced polymer composites by connecting performance targets to material architectures and manufacturing pathways, linking data, physics-based simulation, and AI and ML to enable faster, more reliable design-to-manufacture decisions.
+
+We invite contributions that demonstrate workflows spanning material process microstructure performance relationships, multi-fidelity modeling, and validation across scalable manufacturing routes, particularly injection molding, thermoforming, and additive manufacturing. Emphasis will be placed on process-aware part design and optimization to improve quality, dimensional stability, mechanical performance, manufacturability, and sustainability through recyclability, waste reduction, and energy efficiency.
+
+Topics of interest include, but are not limited to:
+I.	AI/ML-enabled inverse design approaches for composites
+II.	AI/ML for injection molding of composites 
+III.	AI/ML-guided thermoforming and stamp forming
+IV.	AI/ML-driven additive manufacturing of composites
+V.	AI/ML-driven resin transfer molding of composites
+VI.	Process modeling for Composites with AI/ML surrogates 
+
+This symposium brings together researchers and practitioners to share methods, benchmarks, and manufacturing case studies that advance composites development, increase confidence, and enable scalable production through inverse design.

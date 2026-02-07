@@ -1,0 +1,25 @@
+SYMPOSIUM: Soft Robotics: Matter, Structure, and Intelligence
+ORGANIZERS: Wanliang Shan, Dan Preston, Jie Yin,  Kaitlyn Becker, Sheila Russo
+------------------------------
+
+Following our successful organization in several prior years’ SES meetings (e.g., 50 speakers at SES 2025, including 25 invited faculty speakers, with no speakers dropping out), we propose the mini-symposium "Soft Robotics: Matter, Structure, and Intelligence” for SES 2026.
+
+Soft robotics is a growing research area that attracts interest from the broad communities of materials, mechanics, sensors, robotics, dynamics, control, and computer science.  Intersectional work of these communities are creating soft and soft-rigid hybrid robots that are strategically compliant, adaptive, and gentle when interacting with humans, obstacles, and challenging environments.
+ 
+This symposium invites research on mechanics, design, modeling, manufacturing, actuation, sensing, and control of soft robots made of different soft actuating materials and structures at all scales. The purpose is to showcase recent advances, identify and challenge the limits of soft systems, and provide a collective outlook for future directions.  Examples of the topics include (but are not limited to): 
+
+   • Robotic matter: emerging soft actuating materials, e.g., ecoflex, hydrogels, liquid crystal polymers, shape memory polymers, magnetic elastomers, and electro-active polymers etc., 
+   • Robotic structures and manufacturing: novel structures, e.g., architected materials, origami/kirigami, bistable/multistable structures, tensegrity, and composites etc.,  
+   • Robotic intelligence: physical intelligence and materials intelligence for autonomy and intelligence through sensing, actuation, control, and machine learning. 
+   • Robotic functionalities: artificial muscle, actuators, locomotion (jumping, swimming, crawling), manipulation, and mechanical computation etc.,  
+   • Robotics for a better life, e.g., wearable soft robots, surgical soft robots, and rehabilitation robots etc., for healthcare and medical applications
+
+Soft robotics is a growing research area that attracts interest from the broad communities of materials, mechanics, sensors, robotics, dynamics, control, and computer science.  Intersectional work of these communities are creating soft and soft-rigid hybrid robots that are strategically compliant, adaptive, and gentle when interacting with humans, obstacles, and challenging environments.
+ 
+This symposium invites research on mechanics, design, modeling, manufacturing, actuation, sensing, and control of soft robots made of different soft actuating materials and structures at all scales. The purpose is to showcase recent advances, identify and challenge the limits of soft systems, and provide a collective outlook for future directions.  Examples of the topics include (but are not limited to): 
+
+   • Robotic matter: emerging soft actuating materials, e.g., ecoflex, hydrogels, liquid crystal polymers, shape memory polymers, magnetic elastomers, and electro-active polymers etc., 
+   • Robotic structures and manufacturing: novel structures, e.g., architected materials, origami/kirigami, bistable/multistable structures, tensegrity, and composites etc.,  
+   • Robotic intelligence: physical intelligence and materials intelligence for autonomy and intelligence through sensing, actuation, control, and machine learning. 
+   • Robotic functionalities: artificial muscle, actuators, locomotion (jumping, swimming, crawling), manipulation, and mechanical computation etc.,  
+   • Robotics for a better life, e.g., wearable soft robots, surgical soft robots, and rehabilitation robots etc., for healthcare and medical applications

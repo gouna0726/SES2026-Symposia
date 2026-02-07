@@ -1,0 +1,12 @@
+SYMPOSIUM: Dynamics and Control of Novel Infrastructural Systems
+ORGANIZERS: Arun Prakash , James Gibert , Shirley J. Dyke
+------------------------------
+
+With the growing pressure on energy, materials, space and other resources, the need for low-cost, energy-efficient, sustainable and resilient infrastructural systems has never been greater. Dynamics and control play an especially important role in the performance of these systems towards achieving these goals.
+This mini-symposium invites talks that contribute to advancements in these areas, including (but not limited to):
+o	Design and control of mechanical and structural systems 
+o	Cyber-physical systems
+o	Smart and autonomous systems
+o	Sensing and monitoring of infrastructure 
+o	Retrofit and upgrade of existing infrastructure
+o	Novel numerical / experimental techniques for the above

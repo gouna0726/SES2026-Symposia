@@ -1,0 +1,17 @@
+SYMPOSIUM: Symmetry in mechanics
+ORGANIZERS: Ivan C. Christov, Md Mahmudur Rahman
+------------------------------
+
+Symmetry is a cornerstone of theoretical physics and continuum mechanics. It casts governing laws in geometric form and, through invariance, yields conservation principles. Building on Noether’s seminal link between symmetries and conserved quantities, Peierls and Eshelby extended invariance ideas to the mechanics of defects; Gurtin subsequently generalized these concepts to interfaces; and later syntheses by Herrmann and Maugin clarified the broader framework of configurational (material) forces. However, the roles of symmetry and configurational forces remain underutilized in continuum mechanics. In particular, a systematic variational formalism of the configurational forces in fluids is still lacking, and the role of material symmetry in fluid–structure interaction and in flows with fluid–fluid interfaces remains largely unexplored. Addressing these gaps is essential for completing the geometric structure underlying continuum mechanics and for uncovering new conserved quantities and integral balance laws in both elasticity and fluid mechanics.
+
+Symmetry breaking arising from internal structure (e.g., defects, microstructure), or from the topology and geometry of a problem, naturally introduces source terms in otherwise conserved balance laws. In fluid–structure interactions, a central difficulty is describing the kinematics of moving interfaces and formulating the coupled dynamics within a consistent variational framework. Even when such a formulation is available, deriving and interpreting the associated interfacial configurational balances in physically relevant settings remains a significant open challenge.
+Unifying the conceptual understanding of configurational forces (including their roles in fluids, solids, and fluid–structure interactions) is a frontier topic in mechanics. To this end, this symposium invites contributions that develop and apply the notion of symmetry of physical laws and configurational-force concepts to problems in mechanics broadly interpreted, including defects, interfaces, and coupled fluid–solid or multiphase dynamics.
+
+Topics of interest include, but are not limited to:
+-- Geometric and invariant structure of configurational-force balances (material forces)
+-- Pseudomomentum and its role in compressible irrotational flows (acoustics)
+-- Configurational forces in capillary flows and interfacial transport
+-- Variational formulations, relabeling symmetry, and wave momentum
+-- Configurational forces and generalized interface kinematics in fracture and crack propagation
+-- Conserved quantities and integral balances for slender structures (elastica, plates, and membranes)
+-- Applications to fluid–structure interaction, multiphase flows (bubble and droplet dynamics/spreading), and beyond

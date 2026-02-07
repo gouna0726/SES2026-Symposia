@@ -1,0 +1,11 @@
+SYMPOSIUM: Physics-Based and Uncertainty-Aware Modeling of Materials from Multisource Data
+ORGANIZERS: Bahador Bahmani, Horacio D. Espinosa, Nikolaos Bouklas, Miguel Bessa
+------------------------------
+
+Advances in experimental characterization, high-fidelity simulations, and data acquisition technologies have led to an unprecedented availability of heterogeneous data for materials modeling. These data sources often differ significantly in fidelity, scale, modality, and uncertainty structure, posing fundamental challenges for model identification, validation, and predictive use in mechanics of materials. At the same time, purely data-driven approaches that neglect physical structure and uncertainty quantification often suffer from limited generalizability and interpretability. 
+
+This mini-symposium focuses on physics-based and uncertainty-aware approaches for modeling material behavior using multisource data, including experimental measurements, computational simulations, and hybrid datasets across scales. Emphasis is placed on methods that explicitly account for uncertainty arising from measurement noise, modeling assumptions, and data heterogeneity, and that leverage physical principles—such as balance laws, constitutive constraints, and invariance properties—to guide inference and learning. 
+
+Topics of interest include, but are not limited to: uncertainty quantification and identifiability in constitutive modeling; inverse problems and model calibration from multifidelity and multimodal data; data fusion strategies for combining experimental and computational information; physics-constrained learning and model discovery; and validation of uncertainty-aware models in complex material systems, including materials under extreme loading conditions. Contributions spanning theory, computation, and experiment are encouraged. 
+
+The goal of this mini-symposium is to bring together researchers to discuss emerging frameworks that enable robust, interpretable, and predictive material models in the presence of heterogeneous data and uncertainty, and to identify open challenges and future directions at the intersection of mechanics, inference, and data-driven modeling.

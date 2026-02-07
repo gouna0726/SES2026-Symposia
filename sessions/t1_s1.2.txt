@@ -1,0 +1,5 @@
+SYMPOSIUM: Eringen Medal Symposium in Honor of Vijay Kumar
+ORGANIZERS: Yonggang Huang, Koushil Sreenath
+------------------------------
+
+This symposium will be focused on modern methods at the intersection of model-based and data-driven techniques for transformative engineering applications in autonomy, field robotics, and industry-shaping innovations.

@@ -1,0 +1,21 @@
+SYMPOSIUM: AI for Advanced Materials and Structures
+ORGANIZERS: Marco Maurizi, Dennis Kochmann, Xiaoyu (Rayne) Zheng,  Emma Lejeune
+------------------------------
+
+Description:
+Artificial Intelligence (AI) has recently achieved unprecedented advances, ranging from Nobel Prize–winning breakthroughs in protein structure prediction (e.g., AlphaFold) to large language models (LLMs) transforming natural language processing. In parallel, the understanding, characterization, prediction, design, and discovery of advanced materials and structures—spanning metal–organic frameworks at the atomic scale, metamaterials, cellular solids, and composites at the micro- and meso-scale, up to robotic and adaptive matter at the macroscale—remain fundamentally limited by their astronomically vast design spaces.
+AI-driven methods provide powerful new tools to explore these spaces efficiently, dramatically reducing the cost and time associated with physics-based simulations and experimental testing. By enabling data-driven, physics-informed, and hybrid approaches, AI opens the door to the design and discovery of materials and structures with tunable, programmable, and multifunctional properties, unlocking unprecedented mechanical and functional capabilities.
+This symposium will bring together researchers working at the intersection of artificial intelligence, advanced materials, and solid and structural mechanics, with the goal of highlighting recent breakthroughs, emerging methodologies, and open challenges in this rapidly evolving field.
+
+Topics of interest include, but are not limited to:
+•	AI-assisted methods for materials and structural design
+•	Data-driven approaches for architected and heterogeneous materials
+•	Physics-informed machine learning for structural optimization
+•	AI-guided Topology optimization 
+•	Accelerated material and structural discovery through AI-enhanced simulation
+•	Multi-scale modeling and design enabled by machine learning
+•	Integration of AI with traditional computational frameworks
+•	AI-assisted manufacturing of complex structures
+•	AI-guided experimental design and characterization
+•	Neural and data-driven constitutive modeling
+•	Physical artificial intelligence and mechanical computing

@@ -1,0 +1,12 @@
+SYMPOSIUM: Advances on the Mechanics of Architected Materials
+ORGANIZERS: Carlos M. Portela, Lucas Meza, David Restrepo, Tian Chen, Christelle Combescure
+------------------------------
+
+Architected materials combine topology and mesoscale morphological features to achieve exotic multi-physical properties that are unattainable by traditional monolithic solids. In addition to designing for mechanics, modern architected materials exhibit novel characteristics in acoustics, thermal, electromagnetic, and other domains. Architected material systems such as periodic/aperiodic cellular solids, origami and kirigami-based architectures, contact or entanglement-dominated responses, and multi-phase composites, have the potential to transform the way modern engineering structures are designed and manufactured. Recent realizations of architected materials, aided by new characterization techniques, design algorithms, and computational methods, have shed light on exciting and previously unexplored realms of their mechanical response. For instance, their ‘dynamic’ responses—i.e., time- or stimuli-dependent properties—present exciting directions for a variety of applications. Recent realizations of stimuli-responsive architected materials—via magnetic, electrical, optical, or thermal fields—have demonstrated the potential to endow architected materials with on-demand responses.  
+ 
+This symposium will discuss the latest advances on the mechanics of architected materials providing a forum for theoretical, computational, and experimental contributions. Contributions on their ‘dynamic’ or stimuli-responsive properties are particularly welcome. Topics of interest also include, but are not limited to, 
+(i)	design algorithms including network science or data-driven and optimization techniques, 
+(ii)	wave propagation and elastic metamaterials, 
+(iii)	nonlinear mechanics and evolution of failure/fracture in architected materials, 
+(iv)	stimuli-responsive mechanical properties, and 
+(v)	architected materials under extreme conditions (e.g., high-velocity impact, shock, high/low temperatures, high-cycle fatigue). 

@@ -1,0 +1,16 @@
+SYMPOSIUM: Experimental and Computational Methods in Mechanobiology and Biomaterial Innovation
+ORGANIZERS: Hanxun Jin, Farid Alisafaei, Grace Gu, Guy M. Genin
+------------------------------
+
+A new paradigm is emerging in mechanobiology and biomaterials: designing materials from the molecular scale upward by understanding how hierarchical structures link atomistic-scale chemistry to functional mechanical performance. This mini-symposium will convene researchers at the forefront of developing and integrating experimental, computational, and hybrid methodologies to understand, model, and engineer mechanobiological systems and bio-inspired materials across all relevant length scales.
+
+Mechanobiology and biomaterials research is rapidly evolving as advances in high-resolution mechanical measurements, bio-fabrication, and data-driven modeling enable quantitative interrogation of cell-extracellular matrix (cell-ECM) interactions across molecular, cellular, and tissue scales. Modern experimental mechanics now allows direct measurement of cell-generated forces, ECM viscoelasticity, nonlinear deformation, damage, and remodeling, providing new insight into mechanically driven pathologies such as fibrosis, cardiovascular remodeling, cancer progression, and impaired tissue regeneration.
+
+Concurrently, innovations in engineered hydrogels, fibrous ECM-mimetic networks, architected biomaterials, and bio-printed tissues have expanded the design space of mechanically functional cellular microenvironments, demanding rigorous frameworks to link ECM microstructure, mechanics, and cell response. In parallel, constitutive modeling, multiphysics simulations, and scientific machine learning are enabling mechanism-aware parameter identification, inverse design, and predictive modeling of coupled cell-ECM systems.
+
+Topics of interest:
+• Integrated experimental-computational methodologies: Coupled frameworks that combine mechanics-based experimentation with biologically informed modeling and data-driven inference to enable molecular-to-functional design pipelines for therapeutic biomaterials.
+• Multi-scale modeling and simulation: Approaches spanning atomistic to continuum scales, including DFT, molecular dynamics, coarse-grained models, and finite element methods, for modeling of nonlinear, viscoelastic, damage, and remodeling behaviors in biological tissues and multiphysics simulation of coupled cell-ECM systems. 
+• AI/ML-driven materials design: Scientific machine learning and physics-informed approaches for parameter identification, surrogate modeling, inverse design of biomaterials with targeted mechanical properties, and data-driven discovery of structure-property-function relationships. 
+• Experimental mechanics and fabrication: High-resolution characterization of cellular force generation, adhesion, traction, and matrix remodeling, alongside additive manufacturing and 3D printing strategies for hierarchical, bio-inspired structures and ECM-mimetic biomaterials. 
+• Disease mechanobiology: Mechanistic understanding of fibrosis, cancer, cardiovascular remodeling, and tissue degeneration driven by altered cell-ECM interactions and hierarchical structural changes in pathological tissues. 

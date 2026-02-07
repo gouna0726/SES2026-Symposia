@@ -1,0 +1,12 @@
+SYMPOSIUM: Emergent Behavior in Active Matter
+ORGANIZERS: Brian Cox, franck vernery, christian peco, Md Tahir Saif
+------------------------------
+
+We seek papers that explore how relatively simple mechanisms and rules governing discrete active agents can give rise to complex and sometimes surprising emergent behavior in large populations.
+Rules and their underlying mechanisms that are relevant to the symposium are broad in nature, including but not limited to those based on chemical factors, on agent motions and mechanics, or on electrical fields.
+Agents capable of emergent behavior span a wide variety of length and time scales, from molecules (e.g., self-organization in the cytoskeleton) to living cells (e.g., morphogenesis in epithelial tissues or biofilms) to macroscopic systems (e.g., swarming insects, birds, fish, or robot swarms).
+We welcome contributions that explore the problem of discovering useful rules for agents through theoretical approaches (e.g., simulations and/or analytical methods) or through the acquisition and/or analysis of experimental data.
+Of interest but not limiting are:
+•	The use of AI to extract agent rules from complex data for biological or synthesised populations.
+•	Demonstrations of universality between rules that might govern different systems.
+•	Any system in which rules can be manipulated to optimize population-scale outcomes, as in robots or synthetic molecular systems but perhaps even in living systems.
