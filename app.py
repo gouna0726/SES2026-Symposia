@@ -46,12 +46,16 @@ def get_sessions(track_id):
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 first_line = f.readline().strip()
-                # Remove prefix "SYMPOSIUM: " to get just the title
+                # Remove prefix "SYMPOSIUM: "
                 clean_title = first_line.replace('SYMPOSIUM:', '').strip()
+                
+                # --- CHANGE IS HERE ---
+                # .title() ensures every word starts with a capital letter
+                formatted_title = clean_title
                 
                 session_list.append({
                     "id": filename.replace('.txt', ''),
-                    "title": clean_title
+                    "title": formatted_title
                 })
         except Exception as e:
             print(f"Error reading {filename}: {e}")
@@ -61,27 +65,21 @@ def get_sessions(track_id):
 
 @app.route('/get_content/<session_id>')
 def get_content(session_id):
-    # Now SESSIONS_DIR is defined, so this won't crash
     file_path = os.path.join(SESSIONS_DIR, f"{session_id}.txt")
-    
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
+            lines = f.readlines()
         
-        lines = content.split('\n')
+        # This removes the prefix but leaves the text exactly as it is in the .txt
+        title = lines[0].replace('SYMPOSIUM:', '').strip()
+        organizers = lines[1].replace('ORGANIZERS:', '').strip()
+        description = "".join(lines[2:])
         
-        # We clean the data here so MATTHEW becomes Matthew
-        title = lines[0].replace('SYMPOSIUM:', '').strip().title()
-        organizers = lines[1].replace('ORGANIZERS:', '').strip().title()
-        description = "\n".join(lines[3:])
-        
-        # Send the clean data back to your index.html
-        return jsonify({
-            "content": f"SYMPOSIUM: {title}\nORGANIZERS: {organizers}\n\n{description}"
-        })
-    
+        # Return the raw text
+        formatted_text = f"SYMPOSIUM: {title}\nORGANIZERS: {organizers}\n{description}"
+        return jsonify({"content": formatted_text})
+            
     return jsonify({"content": "Error: Session file not found."}), 404
-
 if __name__ == '__main__':
     # Running in debug mode for easy testing
     app.run(debug=True, port=5000)
