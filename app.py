@@ -4,6 +4,8 @@ from flask import Flask, render_template, jsonify, request
 
 app = Flask(__name__)
 
+SESSIONS_DIR = os.path.join(os.path.dirname(__file__), 'sessions')
+
 # Your Track configuration based on the Excel data
 TRACKS = {
     "1": "Medalist Symposia and Special Symposia",
@@ -59,13 +61,26 @@ def get_sessions(track_id):
 
 @app.route('/get_content/<session_id>')
 def get_content(session_id):
-    """Returns the full text of a specific session file."""
-    try:
-        file_path = os.path.join('sessions', f'{session_id}.txt')
+    # Now SESSIONS_DIR is defined, so this won't crash
+    file_path = os.path.join(SESSIONS_DIR, f"{session_id}.txt")
+    
+    if os.path.exists(file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
-            return jsonify({"content": f.read()})
-    except FileNotFoundError:
-        return jsonify({"content": "Session details not found."}), 404
+            content = f.read()
+        
+        lines = content.split('\n')
+        
+        # We clean the data here so MATTHEW becomes Matthew
+        title = lines[0].replace('SYMPOSIUM:', '').strip().title()
+        organizers = lines[1].replace('ORGANIZERS:', '').strip().title()
+        description = "\n".join(lines[3:])
+        
+        # Send the clean data back to your index.html
+        return jsonify({
+            "content": f"SYMPOSIUM: {title}\nORGANIZERS: {organizers}\n\n{description}"
+        })
+    
+    return jsonify({"content": "Error: Session file not found."}), 404
 
 if __name__ == '__main__':
     # Running in debug mode for easy testing
